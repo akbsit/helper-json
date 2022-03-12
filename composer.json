@@ -1,0 +1,20 @@
+{
+    "name": "falbar/helper-json",
+    "description": "Helper for work with json.",
+    "keywords": [
+        "php",
+        "json",
+        "array"
+    ],
+    "homepage": "http://falbar.ru/",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Falbar\\HelperJson\\": "src"
+        }
+    }
+}
