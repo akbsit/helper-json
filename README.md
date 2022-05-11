@@ -1,16 +1,16 @@
 # helper-json, [Packagist](https://packagist.org/packages/falbar/helper-json)
 
-## Установка
+## Install
 
-Для установки пакета нужно:
+To install package, you need run command:
 
 ```bash
 composer require falbar/helper-json
 ```
 
-## Примеры использования
+## Examples
 
-1. Привести JSON строку к массиву:
+1. JSON string to array:
 
 ```php
 $sData = '{"key1":"value1","key2":"value2"}';
@@ -25,7 +25,7 @@ array(2) {
 }
 ```
 
-2. Привести массив в JSON строку:
+2. Array to JSON string:
 
 ```php
 $arData = [
