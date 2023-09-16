@@ -1,11 +1,11 @@
-# helper-json, [Packagist](https://packagist.org/packages/falbar/helper-json)
+# helper-json, [Packagist](https://packagist.org/packages/akbsit/helper-json)
 
 ## Install
 
 To install package, you need run command:
 
 ```bash
-composer require falbar/helper-json
+composer require akbsit/helper-json
 ```
 
 ## Examples

@@ -1,4 +1,4 @@
-<?php namespace Falbar\HelperJson;
+<?php namespace Akbsit\HelperJson;
 
 class JsonHelper
 {

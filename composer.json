@@ -1,12 +1,11 @@
 {
-    "name": "falbar/helper-json",
+    "name": "akbsit/helper-json",
     "description": "Helper for work with json.",
     "keywords": [
         "php",
         "json",
         "array"
     ],
-    "homepage": "http://falbar.ru/",
     "license": "MIT",
     "require": {
         "php": "^8.1",
@@ -14,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Falbar\\HelperJson\\": "src"
+            "Akbsit\\HelperJson\\": "src"
         }
     }
 }
